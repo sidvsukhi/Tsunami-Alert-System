@@ -1,5 +1,14 @@
 # Tsunami-Alert-System
-Tsunami Alert System based on Satellite imagery (Smart India Hackathon project) 
+Tsunami Alert System based on Satellite imagery - Smart India Hackathon 2019 winning project
+
+### Ashwamedha team banner:<br/>
+![alt text](https://github.com/sidvsukhi/Tsunami-Alert-System/blob/master/pictures/team_ASHWAMEDHA.JPEG "ASHWAMEDHA TEAM BANNER")
+
+### Winning Team:<br/>
+![alt text](https://github.com/sidvsukhi/Tsunami-Alert-System/blob/master/pictures/winner.JPEG "Winning Team")
+
+
+## Problem statement from Ministry of Micro, Small and Medium Enterprises of India (MSME India)  
 
 We have taken the source of satellite imagery as the indian oceanographic site  
 [Source site](https://www.incois.gov.in/portal/osf/osfCoastal.jsp?region=coastal&area=westbengal&param=swh&ln=en)
