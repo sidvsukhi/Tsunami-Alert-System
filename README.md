@@ -2,7 +2,7 @@
 Tsunami Alert System based on Satellite imagery - Smart India Hackathon 2019 winning project
 
 ### Ashwamedha team banner:<br/>
-![alt text](https://github.com/sidvsukhi/Tsunami-Alert-System/blob/master/pictures/team_ASHWAMEDHA.JPEG "ASHWAMEDHA TEAM BANNER")
+![alt text](https://github.com/sidvsukhi/Tsunami-Alert-System/blob/master/pictures/team_Ashwamedha.JPEG "ASHWAMEDHA TEAM BANNER")
 
 ### Winning Team:<br/>
 ![alt text](https://github.com/sidvsukhi/Tsunami-Alert-System/blob/master/pictures/winner.JPEG "Winning Team")
